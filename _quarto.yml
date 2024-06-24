@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Elizabeth Blackmore"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: CV
+      - href: pubs.qmd
+        text: Publications
+      - href: https://orcid.org/0009-0009-6916-9430
+        text: "{{< ai orcid >}}"
+      - href: https://scholar.google.com/citations?user=TLWRab8AAAAJ
+        text: "{{< ai google-scholar >}}"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+

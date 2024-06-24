@@ -1,0 +1,8 @@
+---
+title: "Publications"
+tbl-colwidths: [15,75,10]
+---
+
+|          |                                                                                                                                          |                                                   |
+|----------|------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------|
+| **2024** | Elizabeth N. Blackmore and James O. Lloyd-Smith. 'Transoceanic Pathogen Transfer in the Age of Steam and Sail'. *bioRxiV* 2024-01 (2024) | [link](https://doi.org/10.1101/2024.01.01.573813) |

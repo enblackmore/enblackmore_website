@@ -1,0 +1,34 @@
+---
+title: "Education"
+tbl-colwidths: [20,80]
+---
+
++---------------------+:---------------------------------------------------------------------------------------------------------------------------------+
+| **2023 -- present** | **Yale University**                                                                                                              |
+|                     |                                                                                                                                  |
+|                     | *PhD, Ecology and Evolutionary Biology*                                                                                          |
+|                     |                                                                                                                                  |
+|                     | Advisor: [Brandon Ogbunu](https://ogbunulab.yale.edu/)                                                                           |
+|                     |                                                                                                                                  |
+|                     | 2023-2024 Graduate Fellow, [Yale Center for the study of Race, Indigineity, and Transnational Migration](https://ritm.yale.edu/) |
++---------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| **2020 -- 2023**    | **University of California, Los Angeles**                                                                                        |
+|                     |                                                                                                                                  |
+|                     | *Master of Science, Biology, specializing in the Ecology and Evolution of Medicine*                                              |
+|                     |                                                                                                                                  |
+|                     | Advisor: [James O. Lloyd-Smith](https://faculty.eeb.ucla.edu/lloydsmith/)                                                        |
++---------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| **2019 - 2020**     | **Rutgers University, New Brunswick**                                                                                            |
+|                     |                                                                                                                                  |
+|                     | *Post-baccalaureate Studies, Biology*                                                                                            |
++---------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| **2013 - 2015**     | **Durham University, United Kingdom**                                                                                            |
+|                     |                                                                                                                                  |
+|                     | *Master of Arts by Research, History*                                                                                            |
++---------------------+----------------------------------------------------------------------------------------------------------------------------------+
+| **2010 - 2013**     | **University of Cambridge, United Kingdom**                                                                                      |
+|                     |                                                                                                                                  |
+|                     | *Bachelor of Arts, History*                                                                                                      |
++---------------------+----------------------------------------------------------------------------------------------------------------------------------+
+
+### 
